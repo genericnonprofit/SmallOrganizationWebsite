@@ -6,9 +6,7 @@
   subfolderitems:
     - page: Event Calendar
       url: /calendar/
-    - page: Programs
-      url: /programs.html
-    - page: Awards
+    - page: Non Profit Awards
       url: /awards.html
 - title: Administration
   sub: true
@@ -18,19 +16,19 @@
 - title: Resources
   sub: true
   subfolderitems:
-    - page: Links
+    - page: Non Profit Links
       url: /links.html
     - page: Affiliates
       url: /affiliates.html
     - page: Job Board
       url: /jobs.html
-- title: Sponsors
+- title: Non Profit Sponsors
   sub: false
   url: /sponsors.html
 - title: About Us
   sub: true
   subfolderitems:
-    - page: Contact Info
+    - page: Contact Generic Non Profit
       url: /contact.html
-    - page: Join Organization
+    - page: Join Generic Non Profit
       url: /join.html
